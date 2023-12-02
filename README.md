@@ -1,6 +1,8 @@
 # tax-doc-sdk-tax1097btc
 
-Software development kit to generate IRS Form 1097-BTC as PDF file using Financial Data Exchange (FDX) standards.
+Software development kit to generate IRS Form 1097-BTC as PDF file using Financial Data Exchange (FDX) standards including QR codes and embedded JSON.
+
+<img alt="Sample Form" src="samples/Tax1097Btc.sample.png" width="850"/>
 
 This GitHub project is public but the Maven repositories on which it relies are private.
 

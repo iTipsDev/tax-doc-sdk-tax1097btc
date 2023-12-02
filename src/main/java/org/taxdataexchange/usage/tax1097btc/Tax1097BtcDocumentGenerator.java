@@ -56,7 +56,7 @@ public class Tax1097BtcDocumentGenerator {
         Tax1097BtcPdfBuilder pdfBuilder = new Tax1097BtcPdfBuilder( );
         byte[] bytes = pdfBuilder.buildQr( taxDataList );
 
-        String filePath = "samples/Tax1097Btc.sample.png";
+        String filePath = "samples/Tax1097Btc.qr.png";
         FileUtils.bytesToFile( bytes, filePath );
         System.out.println( filePath );
 
@@ -84,6 +84,12 @@ public class Tax1097BtcDocumentGenerator {
         String filePath = "samples/Tax1097Btc.sample.pdf";
         FileUtils.bytesToFile( pdfBytes, filePath );
         System.out.println( filePath );
+
+        String filePathPng = "samples/Tax1097Btc.sample.png";
+        byte[] pngBytes = Pdf2PngConverter.convertBytes( pdfBytes );
+        FileUtils.bytesToFile( pngBytes, filePathPng );
+        System.out.println( filePathPng );
+
 
     }
 
