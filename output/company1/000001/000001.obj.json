@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "32-829-2706",
+  "taxFormId" : "5633572",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0324869",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rau, Lemke and Cronin"
+    },
+    "address" : {
+      "line1" : "470 Shane Gardens",
+      "city" : "North Setsuko",
+      "region" : "PA",
+      "postalCode" : "54737"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "miquel.larson@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-75-1019",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Alva",
+      "last" : "Boyle"
+    },
+    "address" : {
+      "line1" : "927 Cummerata Burg",
+      "city" : "North Bradleytown",
+      "region" : "WV",
+      "postalCode" : "34684"
+    },
+    "email" : "dacia.legros@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "filingForCredit" : true,
+  "asNominee" : true,
+  "total" : 200,
+  "bondCode" : "bondCode",
+  "uniqueId" : "uniqueId",
+  "bondType" : "bondType",
+  "amounts" : [ {
+    "month" : "JAN",
+    "amount" : 300
+  } ],
+  "comments" : "comments"
+}
