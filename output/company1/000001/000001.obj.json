@@ -1,0 +1,59 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "39-815-0414",
+  "taxFormId" : "4291341",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0876265",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Satterfield-Cummings"
+    },
+    "address" : {
+      "line1" : "30481 Jenae Skyway",
+      "city" : "Conroyville",
+      "region" : "GA",
+      "postalCode" : "43493",
+      "unitType" : "Apt",
+      "unitNumber" : "775"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lavette.kiehn@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-67-3834",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Annamarie",
+      "middle" : "Rigoberto",
+      "last" : "Deckow"
+    },
+    "businessName" : {
+      "name1" : "Brown, Ledner and Volkman"
+    },
+    "address" : {
+      "line1" : "4171 Fahey Dale",
+      "city" : "North Darnellchester",
+      "region" : "LA",
+      "postalCode" : "74356",
+      "unitType" : "Apt",
+      "unitNumber" : "856"
+    },
+    "email" : "guy.sawayn@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "filingForCredit" : true,
+  "asNominee" : true,
+  "total" : 200,
+  "bondCode" : "QIKOFQP2Y",
+  "uniqueId" : "e0WqvCwD9BCl9H",
+  "bondType" : "199",
+  "amounts" : [ {
+    "month" : "JAN",
+    "amount" : 300
+  } ],
+  "comments" : "Contact phone number above with questions"
+}

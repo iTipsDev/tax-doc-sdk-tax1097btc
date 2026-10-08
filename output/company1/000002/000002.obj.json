@@ -1,0 +1,59 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "42-356-5454",
+  "taxFormId" : "3798773",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0876265",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Satterfield-Cummings"
+    },
+    "address" : {
+      "line1" : "30481 Jenae Skyway",
+      "city" : "Conroyville",
+      "region" : "GA",
+      "postalCode" : "43493",
+      "unitType" : "Apt",
+      "unitNumber" : "775"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lavette.kiehn@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-56-4986",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Mckinley",
+      "middle" : "Jeremy",
+      "last" : "Runolfsson"
+    },
+    "businessName" : {
+      "name1" : "D'Amore LLC"
+    },
+    "address" : {
+      "line1" : "6450 Moore Turnpike",
+      "city" : "Helainebury",
+      "region" : "SC",
+      "postalCode" : "45557",
+      "unitType" : "Apt",
+      "unitNumber" : "787"
+    },
+    "email" : "tamisha.borer@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "filingForCredit" : true,
+  "asNominee" : true,
+  "total" : 200,
+  "bondCode" : "ZFHZDTX3H",
+  "uniqueId" : "DXyNjnNNSIn8fa",
+  "bondType" : "199",
+  "amounts" : [ {
+    "month" : "JAN",
+    "amount" : 300
+  } ],
+  "comments" : "Contact phone number above with questions"
+}

@@ -1,0 +1,59 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "90-183-8433",
+  "taxFormId" : "4019491",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0876265",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Satterfield-Cummings"
+    },
+    "address" : {
+      "line1" : "30481 Jenae Skyway",
+      "city" : "Conroyville",
+      "region" : "GA",
+      "postalCode" : "43493",
+      "unitType" : "Apt",
+      "unitNumber" : "775"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lavette.kiehn@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-80-3134",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Salvatore",
+      "middle" : "Beula",
+      "last" : "Wyman"
+    },
+    "businessName" : {
+      "name1" : "Schiller, Kunde and Conn"
+    },
+    "address" : {
+      "line1" : "62092 Wolff Stream",
+      "city" : "North Granville",
+      "region" : "NY",
+      "postalCode" : "10684",
+      "unitType" : "Apt",
+      "unitNumber" : "297"
+    },
+    "email" : "kieth.schaden@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "filingForCredit" : true,
+  "asNominee" : true,
+  "total" : 200,
+  "bondCode" : "M1K9SH0AV",
+  "uniqueId" : "DIpePZ4lCfVoGm",
+  "bondType" : "199",
+  "amounts" : [ {
+    "month" : "JAN",
+    "amount" : 300
+  } ],
+  "comments" : "Contact phone number above with questions"
+}
